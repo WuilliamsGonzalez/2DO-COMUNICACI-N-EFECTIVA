@@ -30,10 +30,10 @@ No es necesario instalar ningún software para utilizar este repositorio. Simple
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tuusuario/comunicacion-efectiva.git
+git clone https://github.com/WuilliamsGonzalez/2DO-COMUNICACI-N-EFECTIVA.git
 
 # Acceder al directorio
-cd comunicacion-efectiva
+cd 2DO-COMUNICACI-N-EFECTIVA
 ```
 
 
